@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧑‍💻 Software Developer with a passion for coding and problem-solving<br>🚀 Experienced in building scalable and reliable applications using JavaScript<br>📚 Continuously learning and exploring new technologies and programming languages<br>💡 Innovative thinker with a focus on creating simple and elegant solutions to complex problems<br>🤝 Team player with strong communication and collaboration skills<br>🎓 Pursuing BTech in Computer Engineering from DJ Saghvi College
+🧑‍💻 Software Developer with a passion for coding and problem-solving<br>🚀 Experienced in building scalable and reliable applications using JavaScript<br>📚 Continuously learning and exploring new technologies and programming languages<br>💡 Innovative thinker with a focus on creating simple and elegant solutions to complex problems<br>🤝 Team player with strong communication and collaboration skills<br>🎓 Pursuing BTech in Computer Engineering from DJ Sanghvi College of Engineering 
 
 
 ## 🌐 Socials:
