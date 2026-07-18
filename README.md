@@ -1,17 +1,149 @@
-# 💫 About Me:
-🧑‍💻 Software Developer with a passion for coding and problem-solving<br>🚀 Experienced in building scalable and reliable applications using JavaScript<br>📚 Continuously learning and exploring new technologies and programming languages<br>💡 Innovative thinker with a focus on creating simple and elegant solutions to complex problems<br>🤝 Team player with strong communication and collaboration skills<br>🎓 Currently working at ISS Stoxx as a Software Developer
+<h1 align="center">Hi 👋, I'm Jay Patel</h1>
+<h3 align="center">Software Engineer | Full Stack Developer | DevOps & Automation Enthusiast</h3>
 
+<p align="center">
+Building scalable enterprise applications, automating software delivery, and solving complex engineering problems.
+</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jaypatel_0034) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jay-patel-6289761ab) 
+---
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=flat&logo=material-ui&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Jayoooppp&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/><br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Jayoooppp&theme=dracula&hide_border=false)<br/><br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jayoooppp&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+# 💫 About Me
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+🚀 Software Engineer with **2+ years of experience** building enterprise-grade applications and automation solutions.
 
+💻 Currently working at **ISS STOXX**, where I develop **client-facing Full Stack applications** using **Angular** and **Spring Boot**.
+
+⚙️ Experienced in designing **GitLab CI/CD pipelines**, **Docker**, **Ansible**, **Dev Containers**, and deployment automation.
+
+📈 Passionate about performance optimization, database tuning, and building reliable software systems.
+
+🗄️ Worked extensively with **SQL Server**, **Stored Procedures**, **SSIS**, and real-time data integration pipelines.
+
+🤖 Actively leverage **AI-assisted development** to improve productivity, debugging, code quality, and automation.
+
+🌱 Currently learning:
+- System Design
+- Cloud Technologies
+- Kubernetes
+
+🎯 Interests:
+- Backend Engineering
+- Full Stack Development
+- Platform Engineering
+- DevOps
+- AI Engineering
+
+---
+
+# 💼 Experience
+
+### Software Engineer | ISS STOXX
+
+- Built enterprise-grade Full Stack applications using **Angular** and **Spring Boot**
+- Developed REST APIs and reporting solutions
+- Designed GitLab CI/CD pipelines using Docker and Ansible
+- Optimized application performance by reducing page load time by over **70%**
+- Improved SQL Server Stored Procedure execution time by **50%+**
+- Built Dev Container environments for standardized development
+- Worked on SSIS, data feeds, reporting solutions and enterprise integrations
+- Leveraged AI-powered development workflows for debugging and automation
+
+---
+
+# 💻 Tech Stack
+
+## Languages
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat)
+
+---
+
+## Frontend
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css)
+
+---
+
+## Backend
+
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express)
+
+---
+
+## Database
+
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql)
+
+---
+
+## DevOps & Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira)
+![Dev Containers](https://img.shields.io/badge/Dev_Containers-2496ED?style=flat)
+
+---
+
+# 📌 Featured Projects
+
+### 🛡️ NetNanny
+
+Parental Control platform featuring
+
+- Website Blocking
+- Content Filtering
+- Internet Monitoring
+- Usage Reports
+
+**Tech:** GCP • Flask • MongoDB • Next.js
+
+---
+
+### 💬 WhatsApp Clone
+
+Real-time messaging platform supporting
+
+- Authentication
+- Real-time Chat
+- Image Sharing
+- Audio Messages
+- WebSockets
+
+**Tech:** Next.js • PostgreSQL • Firebase • Socket.IO
+
+---
+
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Jayoooppp&show_icons=true&theme=tokyonight&count_private=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Jayoooppp&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jayoooppp&layout=compact&theme=tokyonight)
+
+---
+
+# 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jay-patel-6289761ab)
+
+📧 **Email:** pateljay5431@gmail.com
+
+---
+⭐ *Always open to collaborating on interesting engineering problems, Full Stack applications, DevOps automation, and AI-powered developer tools.*
