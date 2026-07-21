@@ -129,16 +129,6 @@ Real-time messaging platform supporting
 
 ---
 
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Jayoooppp&show_icons=true&theme=tokyonight&count_private=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Jayoooppp&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jayoooppp&layout=compact&theme=tokyonight)
-
----
-
 # 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jay-patel-6289761ab)
